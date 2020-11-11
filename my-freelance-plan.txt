@@ -2,7 +2,9 @@ My Freelance Plan
 1. make some website
    * make portofolio website
    * make elibrary website
+   * make CMS website
 2. promote the website
 3. sell some website
 4. if get project, finish it
 5. make a ecommerce for selling website
+6. add request features to website ecommerce
