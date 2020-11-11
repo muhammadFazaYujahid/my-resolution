@@ -1,6 +1,5 @@
 My Freelance Plan
 1. make some website
-   * make portofolio website
    * make elibrary website
    * make CMS website
 2. promote the website
